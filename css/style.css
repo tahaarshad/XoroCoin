@@ -68,6 +68,40 @@ body {
     opacity: 0;
   }
 }
+.mb-3 {
+ background-color: #40434d;
+}
+
+.card {
+  border: none;
+}
+
+
+
+.box {
+  background-color: #d6e7f4;
+  color: #40434d;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+.box p {
+  color: #40434d;
+}
+.box h3 {
+  color: #40434d;
+}
+
+.icon-heading {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon-heading i {
+  margin-right: 10px;
+}
 
 
 a {
@@ -536,14 +570,15 @@ ul.email li i {
   padding: 90px 0 60px 0;
 }
 
-.about_border {
+/* .about_border {
   border: #ddd dashed 1px;
   padding: 80px 80px;
-}
+} */
 
 .about .titlepage {
   padding-bottom: 0;
   margin-bottom: 0px;
+  width: 100%;
 }
 
 .about_text {

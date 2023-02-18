@@ -198,7 +198,7 @@ File Name: responsive.css
         right: 25.3%;
     }
     .titlepage h2 {
-        font-size: 35px;
+        font-size: 25px;
         line-height: 40px;
     }
     .wallet {
@@ -231,4 +231,7 @@ File Name: responsive.css
     .border_testi {
         margin: 0;
     }
+    /* .about_border {
+        border: none;
+    } */
 }
